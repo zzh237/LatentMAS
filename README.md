@@ -12,6 +12,7 @@ Latent Collaboration in Multi-Agent Systems
 </h3>
 
 
+
 <p align="center">
     <a href="https://arxiv.org/abs/2511.20639"><img src="https://img.shields.io/badge/arXiv-2511.20639-B31B1B.svg?logo=arxiv" alt="Arxiv"></a>
     <a href="https://arxiv.org/abs/2511.20639"><img src="https://img.shields.io/badge/Huggingface-DailyPaper-FFD21E.svg?logo=huggingface" alt="Huggingface Paper"></a>
@@ -19,7 +20,7 @@ Latent Collaboration in Multi-Agent Systems
   
   </p>
 
-
+---
 
 <p align="center">
   <img src="assets/main_res.png" width="1000">
